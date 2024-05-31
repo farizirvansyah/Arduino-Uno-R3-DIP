@@ -1,7 +1,7 @@
 // Menyalakan LED sekaligus nada dengan Push Button
-const int ledPin = 7;     // Pin yang terhubung ke LED
-const int buttonPin = 2;  // Pin yang terhubung ke push button
-const int buzzerPin = 8;  // Pin yang terhubung ke buzzer
+const int ledPin = 0;     // Pin yang terhubung ke LED
+const int buttonPin = 1;  // Pin yang terhubung ke push button
+const int buzzerPin = 2;  // Pin yang terhubung ke buzzer
 
 int buttonState = 0;      // Variabel untuk menyimpan status push button
 int lastButtonState = 0;  // Variabel untuk menyimpan status push button sebelumnya
@@ -19,6 +19,8 @@ int notes[] = {
 };
 
 void setup() {
+  // Inisialisasi pin LED sebagai output
+  pinMode(ledPin, OUTPUT);
   // Inisialisasi pin push button sebagai input
   pinMode(buttonPin, INPUT);
   // Inisialisasi pin buzzer sebagai output

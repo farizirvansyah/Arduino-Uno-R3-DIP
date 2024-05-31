@@ -13,3 +13,11 @@ Contoh [Simulasi](https://www.tinkercad.com/things/75hnLDyqrHa-basic-led-v2?shar
 
 Berikut adalah [komponen](/Basic%20LED/V2/V2.csv) yang dibutuhkan.
 ![](/Basic%20LED/V2/V2.png)
+
+# Version 3
+Membuat rangkaian sederhana pada Arduino Uno R3 dengan menyalakan 6 LED secara selang seling.
+
+Contoh [Simulasi]() dan [Kode Program](/Basic%20LED/V3/V3.ino)
+
+Berikut adalah [komponen](/Basic%20LED/V3/V3.csv) yang dibutuhkan.
+![](/Basic%20LED/V3/V3.png)

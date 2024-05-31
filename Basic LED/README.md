@@ -1,2 +1,11 @@
 # TurnON.ino
 merupakan rangkaian sederhana pada Arduino Uno R3 dengan 6 LED dengan cara menyalakannya saja.
+﻿Name,Quantity,Component
+"U1",1," Arduino Uno R3"
+"D1",1,"Red LED"
+"D2",1,"Orange LED"
+"D3",1,"Yellow LED"
+"D4",1,"Green LED"
+"D5",1,"Blue LED"
+"D6",1,"White LED"
+"R1, R2, R3, R4, R5, R6",6,"220 Ω Resistor"

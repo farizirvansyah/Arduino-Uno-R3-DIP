@@ -1,3 +1,8 @@
+# Fariz Irvansyah
+![](https://www.facebook.com/farizirvansyah) 
+![](https://www.instagram.com/farizirvansyah/)
+![](https://twitter.com/farizirvansyah)
+![](https://www.linkedin.com/in/farizirvansyah/)
 # Version 1
 Membuat rangkaian sederhana pada Arduino Uno R3 dengan menyalakan 6 LED sekaligus.
 

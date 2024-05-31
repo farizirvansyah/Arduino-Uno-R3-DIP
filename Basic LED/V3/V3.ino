@@ -1,4 +1,4 @@
-// Menyalakan LED secara selang seling
+// Menyalakan LED secara selang seling.
 const int RED = 0;     // ini adalah lampu warna merah
 const int ORANGE = 1;  // ini adalah lampu warna jingga
 const int YELLOW = 2;  // ini adalah lampu warna kuning

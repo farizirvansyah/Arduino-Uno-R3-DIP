@@ -1,4 +1,5 @@
 # TurnON.ino
-merupakan rangkaian sederhana pada Arduino Uno R3 dengan 6 LED dengan cara menyalakannya saja.
-[Component](/Basic%20LED/TurnON.csv)
+Membuat rangkaian sederhana pada Arduino Uno R3 dengan menyalakan 6 LED.
+
+Berikut adalah [Komponen](/Basic%20LED/TurnON.csv) yang dibutuhkan.
 ![](/Basic%20LED/TurnON.png)
